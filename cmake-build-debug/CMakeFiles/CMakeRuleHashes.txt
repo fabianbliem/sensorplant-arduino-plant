@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+357c6da6a1d4dabbcc452ff09292de49 CMakeFiles/plantSensor-burn
+629ebb3528fe0277a1bc2b5552eab303 CMakeFiles/plantSensor-size
+48fd88cf1a07c735ae4e77973553678d CMakeFiles/plantSensor-upload
+0e0c2c073d7fdaf4236b6fa5792936f1 plantSensor_plant_sensor.ino.cpp

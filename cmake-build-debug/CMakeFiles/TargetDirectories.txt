@@ -1,0 +1,8 @@
+C:/Users/fabia/Documents/MMT/term_4/prototyping/repo/sensorplant-arduino-plant/cmake-build-debug/CMakeFiles/uno_CORE.dir
+C:/Users/fabia/Documents/MMT/term_4/prototyping/repo/sensorplant-arduino-plant/cmake-build-debug/CMakeFiles/upload.dir
+C:/Users/fabia/Documents/MMT/term_4/prototyping/repo/sensorplant-arduino-plant/cmake-build-debug/CMakeFiles/plantSensor.dir
+C:/Users/fabia/Documents/MMT/term_4/prototyping/repo/sensorplant-arduino-plant/cmake-build-debug/CMakeFiles/plantSensor-burn.dir
+C:/Users/fabia/Documents/MMT/term_4/prototyping/repo/sensorplant-arduino-plant/cmake-build-debug/CMakeFiles/plantSensor-size.dir
+C:/Users/fabia/Documents/MMT/term_4/prototyping/repo/sensorplant-arduino-plant/cmake-build-debug/CMakeFiles/plantSensor-upload.dir
+C:/Users/fabia/Documents/MMT/term_4/prototyping/repo/sensorplant-arduino-plant/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fabia/Documents/MMT/term_4/prototyping/repo/sensorplant-arduino-plant/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,11 +1,11 @@
 #include <Arduino.h>
 
-
 // Globals
 String dataLabel1 = "EMG";
 bool label = true;
 int EMGPin = A1;
 int EMGVal = 0;
+unsigned long clocktime;
 
 void setup() {
     Serial.begin(115200);
@@ -14,13 +14,13 @@ void setup() {
 
 void loop() {
 
-    // runs once
-    while(label) {
-        Serial.print(dataLabel1);
-        label=false;
-    }
+    clocktime=millis();      // time in milli seconds
 
     EMGVal = analogRead(EMGPin);
     Serial.println(EMGVal);
+    Serial.print(",");
+    Serial.println(clocktime, 1);
+    Serial.print("\n");
+
     delay(50);
 }
